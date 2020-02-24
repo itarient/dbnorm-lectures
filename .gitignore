@@ -1,7 +1,9 @@
 *.aux
 *.dvi
+*.gz
 *.log
 *.nav
+*.pdf
 *.out
 *.snm
 *.toc
